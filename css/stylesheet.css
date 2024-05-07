@@ -1,0 +1,29 @@
+@font-face {
+    font-family: bodoflo;
+    src: url(bodoflo.ttf);
+}
+
+body{
+    background-image: url("../img/eloisebackground.png");
+    background-size: cover;
+    position: fixed;
+}
+main{
+    font-family: bodoflo;
+    font-size: 20pt;
+    padding-top: 480px;
+    padding-left: 560px;
+}
+
+#atplaza{
+    text-decoration: none;
+    color: black;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
+#eloise1{
+    background-color: #FFD4DF;
+}
